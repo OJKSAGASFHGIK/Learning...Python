@@ -1,0 +1,1 @@
+Exercises and practices that I was doing in python.
